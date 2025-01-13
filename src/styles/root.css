@@ -1,0 +1,12 @@
+@import "tailwindcss";
+/*@import "@fontsource-variable/inter";*/
+
+@theme {
+    /*--color-*: initial;*/
+
+    /*--font-*: initial;*/
+    --font-sans: 'Inter', 'sans-serif';
+    /*@supports (font-variation-settings: normal) {*/
+    /*    --font-sans: InterVariable, sans-serif;*/
+    /*}*/
+}
